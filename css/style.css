@@ -1,0 +1,71 @@
+/* NAVIGATION */
+
+.nav {
+  padding-right: 20px;
+}
+
+.nav-pills a {
+  color: #003300;
+  background-color: white;
+}
+
+.nav-pills > li.active > a, .nav-pills > li.active > a:focus {
+  text-decoration: none;
+  color: white;
+  background-color: #003300 !important;
+  border-radius: 0;
+    }
+
+.navigation {
+  list-style: none;
+}
+
+.nav li {
+  float: right;
+}
+
+.nav-button {
+  border-radius: 0;
+  color: #003300;
+}
+
+/* SITE WIDE */
+h1, h2, h3, h4 {
+  font-family: "Roboto Slab";
+}
+
+a, p, button {
+  font-family: "Hind";
+}
+
+
+
+
+/* FOOTER */
+
+footer {
+  color: #003300;
+  text-align: center;
+}
+
+
+#designed-by {
+  padding-top: 50px;
+}
+
+/* Smartphones (portrait and landscape) ----------- */
+@media only screen and (min-width : 320px) and (max-width : 510px) {
+/* Styles */
+
+
+  footer {
+    text-align: center;
+  }
+}
+
+
+/* iPads (portrait and landscape) ----------- */
+@media only screen and (min-width : 511px) and (max-width : 1000px) {
+/* Styles */
+
+}

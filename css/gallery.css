@@ -1,0 +1,9 @@
+.grid-item {
+  float: left;
+  column-width: 20%;
+}
+
+.grid-item img {
+  height: auto;
+  width: 300px;
+}
