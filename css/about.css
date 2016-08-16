@@ -11,8 +11,9 @@
 
 }
 
-#about-info {
+.about-info {
    text-align: justify;
+   font-size: 20px;
    padding: 20px 30px 0 0;
 }
 
